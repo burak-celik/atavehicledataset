@@ -1,5 +1,5 @@
 # ATA Vehicle Dataset
-This repository has been created to share the dataset used in the related article (information about the article will be added after the article is published).
+This repository has been created to share the dataset used in the related article (Analysing Headway Spacing and Calculating Passenger Car Equivalent Values Using Computer Vision and International Dataset-2025).
 Dataset link: https://drive.google.com/file/d/1dZE5cGP3qt5WjaSEUWhzqfwucP2NTKBs/view?usp=sharing
 
 Dataset Password: 147258369.Brk
@@ -10,10 +10,10 @@ The dataset contains 16518 images (140293 annotated instances).11129 of these im
 
 CITATION
 
-1-Title: information about the article will be added after the article is published.
-Author:
-Journal:
-Year:2023
+1-Title: Analysing Headway Spacing and Calculating Passenger Car Equivalent Values Using Computer Vision and International Dataset
+Author:Çelik et al.
+Journal: Promet - Traffic & Transportation Journal
+Year:2025
 
 2-Title: Vision-based vehicle detection and counting system using deep learning in highway scenes
 Authors:Huansheng Song, Haoxiang Liang, Huaiyu Li, Zhe Dai & Xu Yun 

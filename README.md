@@ -22,6 +22,11 @@ Year:2019
 article link: https://link.springer.com/article/10.1186/s12544-019-0390-4
 
 
+<img width="780" height="415" alt="image" src="https://github.com/user-attachments/assets/0bd050aa-6622-4355-8f51-335f2a3fab53" />
+<img width="753" height="413" alt="image" src="https://github.com/user-attachments/assets/b5baa8e1-dc71-48ca-8101-5d18a1be6f1e" />
+
+
+
 The following table shows the comprehensive test results with the proposed method and the combined dataset in the study.
 
 
